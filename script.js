@@ -19,7 +19,7 @@ function tabuada(){
 
         }
         if(n%2 == 0){
-            res.innerHTML ='O seu número é par! O resto da divisão de um número par é sempre 0!'
+            res.innerHTML ='Bora! seu número é par! O resto da divisão de um número par é sempre 0!'
 
         }else{
             res.innerHTML = 'O seu número é ímpar. Números ímpares nunca tem resto da divisão igual a 0'
